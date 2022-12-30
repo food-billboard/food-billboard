@@ -1,6 +1,8 @@
 <div align=center>
 
-# Hi this is food-billboard 👋
+# this is food-billboard 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+food-billboard;Welcome+to+my+profile;I+am+a+front+end+developer;Like+React+and+Node;)](https://git.io/typing-svg)
 
 <img src="./assets/avatar.jpeg" />
 
@@ -51,6 +53,9 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
 </p>
+  
+ ## 📈 GitHub Activity Graph:
+[![Food-Billboard's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=food-billboard&theme=github-compact)](https://github.com/food-billboard)
 
 ## Projects 💻
 
