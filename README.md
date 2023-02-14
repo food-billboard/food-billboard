@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 [![Create Chart](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=create-chart&theme=radical)](https://github.com/food-billboard/create-chart)
 [![Node Server](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=node-server&theme=radical)](https://github.com/food-billboard/node-server)
+[![Simple Practice](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=simple-practice&theme=radical)](https://github.com/food-billboard/simple-practice)
 [![Mini App Management](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=mini-app-management&theme=radical)](https://github.com/food-billboard/mini-app-management)
 [![Chat Demo](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=chat-demo&theme=radical)](https://github.com/food-billboard/chat-demo)
 [![Movie Weapp](https://github-readme-stats.vercel.app/api/pin/?username=food-billboard&repo=movie-weapp&theme=radical)](https://github.com/food-billboard/movie-weapp)
