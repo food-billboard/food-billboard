@@ -73,9 +73,10 @@ Here are some ideas to get you started:
 
 ## Analysis 👍  
 
-![food-billboard's GitHub stats](https://github-readme-stats.vercel.app/api?username=food-billboard&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=food-billboard&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+![food-billboard's GitHub stats](https://github-readme-stats.vercel.app/api?username=food-billboard&show_icons=true&theme=radical)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=food-billboard&show_icons=true&theme=radical)  
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)  
+<img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3632442150778654&hide_border=true" alt="伙食榜的掘金数据" style="zoom:100%;" align="left"/>
 
 
 </div>
