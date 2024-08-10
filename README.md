@@ -1,7 +1,5 @@
 <div align=center>
 
-# 被裁了，祝贺我 🎉
-
 # this is food-billboard 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+food-billboard;Welcome+to+my+profile;I+am+a+front+end+developer;Like+React+and+Node;)](https://git.io/typing-svg)
